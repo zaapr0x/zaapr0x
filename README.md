@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="assets/bg.jpg"/>
+  <img src="assets/bg.jpg" width=1200 height="250"/>
 </div>
 </div>
 <div align="center">
