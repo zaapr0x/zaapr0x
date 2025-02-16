@@ -1,8 +1,6 @@
 
 
-<div align="center">
-  <img src="assets/bg.jpg" width=1200 height="250"/>
-</div>
+
 </div>
 <div align="center">
   <img src="world.webp" height="150" alt="languages graph"  />
