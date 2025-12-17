@@ -9,5 +9,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zaapr0x/count.svg?" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=zaapr0x" alt="Profile Views Counter" />
 </div>
